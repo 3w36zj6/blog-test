@@ -1,0 +1,4 @@
+[submodule "themes/alg-hugo-theme"]
+	path = themes/alg-hugo-theme
+	url = git@github.com:3w36zj6/alg-hugo-theme.git
+	branch = main
